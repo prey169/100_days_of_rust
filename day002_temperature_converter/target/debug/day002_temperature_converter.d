@@ -1,0 +1,1 @@
+/home/frossi/Documents/code/100_days_of_rust/day002_temperature_converter/target/debug/day002_temperature_converter: /home/frossi/Documents/code/100_days_of_rust/day002_temperature_converter/src/main.rs
